@@ -1,2 +1,2 @@
-const roots = ReactDOM.createRoot(document.querySelector('#container'));
-roots.render(<App />);
+const root = ReactDOM.createRoot(document.querySelector('#container'));
+root.render(<App />);
