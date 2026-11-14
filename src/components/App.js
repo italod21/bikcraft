@@ -16,6 +16,9 @@ const App = () => {
             <li>
               <Anchor>Contato</Anchor>
             </li>
+            <li>
+              <Anchor>Revenda</Anchor>
+            </li>
           </List>
         </Navigator>
       </Header>
